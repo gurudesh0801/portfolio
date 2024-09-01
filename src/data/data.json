@@ -1,0 +1,150 @@
+{
+  "Navigation": {
+    "img": "img/logo/pplogo.png"
+  },
+  "Header": {
+    "title": "We Are the Future of Tech Innovation.",
+    "paragraph": "Our commitment to pushing the boundaries of technology. By integrating cutting-edge solutions and forward-thinking strategies, we empower businesses to thrive in an ever-evolving digital landscape."
+  },
+  "About": {
+    "paragraph": "We empower businesses to deliver exceptional customer experiences through innovative technology solutions. Our mission is to bridge the gap between customers and companies, making support more accessible, efficient, and personalized. Founded by experienced technologists and customer support experts, we're passionate about driving business growth and customer satisfaction. We value customer-centricity, innovation, collaboration, and excellence in everything we do. Join us in redefining the future of customer support.",
+    "Why": [
+      "Visionary Founders",
+      "Agile Development",
+      "Cutting-Edge Tech",
+      "Collaborative Culture"
+    ],
+    "Why2": [
+      "Adaptable Solutions",
+      "Bootstrapped Efficiency",
+      "Innovative Spirit",
+      "Customer Obsession"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Customizable Websites",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Web Apps",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Mobile Apps",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Data Visulization Dashboard",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Web Design",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Mobile App Design",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-earth-americas",
+      "name": "Customizable Website",
+      "text": "Our website development services craft custom, user-friendly, and scalable online platforms that drive business growth and enhance customer engagement."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "E-Commerce Website",
+      "text": "Our e-commerce website solutions empower businesses to thrive in the online marketplace, providing intuitive shopping experiences, and robust inventory management."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Data analytics and science",
+      "text": "Our data analytics services unlock the power of your data, providing actionable insights that inform business decisions, optimize operations, and drive growth."
+    },
+    {
+      "icon": "fa fa-eye",
+      "name": "Interaction Design",
+      "text": "Crafting intuitive and engaging user experiences through thoughtful interaction design, we create seamless interfaces that drive user adoption and business success."
+    },
+    {
+      "icon": "fa fa-wand-magic-sparkles",
+      "name": "AI Powerd Models",
+      "text": "Our AI-powered models leverage machine learning and deep learning algorithms to drive business innovation, automate processes, and uncover new opportunities."
+    },
+    {
+      "icon": "fa fa-database",
+      "name": "Data Visualization",
+      "text": "Our data visualization services transform complex data into actionable insights, presenting findings in intuitive, interactive, and easy-to-understand formats."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/download.jpeg",
+      "text": "\"The team at Project Powerhouse took the time to understand our unique needs and crafted solutions that truly align with our goals.\"",
+      "name": "Interaction Modern College"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/sakshimane.jpg",
+      "name": "Sakshi Mane",
+      "job": "Business Analyst"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Omm Gaikwad",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Swheta Gadhve",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Aryan Patil",
+      "job": "Backend Web Developer"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Prasad Deshpande",
+      "job": "Full-Stack Web Developer"
+    }
+  ],
+  "Contact": {
+    "address": "Kohinoor sapphire, Aundh-Ravet BRTS Road, Pune-411033",
+    "phone": "+91 8788098130",
+    "phone2": "+91 8668494090",
+    "email": "info@company.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Personalized Support",
+      "text": "Offer personalized support experiences tailored to individual customer needs, preferences, and behavior, enhancing customer satisfaction and loyalty."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "title": "Analytics and Insights",
+      "text": "Provide actionable insights and analytics to help businesses identify trends, optimize support processes, and improve overall customer experience."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Customer Feedback and Survey",
+      "text": "Collect and analyze customer feedback through surveys, helping businesses identify areas for improvement and measure customer satisfaction."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "AI-Powered Problem Solving",
+      "text": "Utilize artificial intelligence and machine learning algorithms to analyze and resolve complex customer issues, reducing resolution time and improving accuracy."
+    }
+  ]
+}
